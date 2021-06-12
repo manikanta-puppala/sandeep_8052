@@ -6,6 +6,7 @@ count=2
 if n==1:
     print(0)
 elif n==2:
+#Prints 2nd element
     print(1)
 else:
     while flag:
@@ -16,3 +17,4 @@ else:
         if n==count:
             flag=False
     print(c)
+55

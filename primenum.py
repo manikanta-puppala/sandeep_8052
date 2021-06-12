@@ -11,3 +11,4 @@ while i<=p<=j:
     if a==0:
         print(p)
     p=p+1
+20
